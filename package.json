@@ -1,0 +1,17 @@
+{
+  "name": "cors_middleware",
+  "version": "1.0.0",
+  "description": "Middleware to avoid CORS issues",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Menilik Belay Woldeyes",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
